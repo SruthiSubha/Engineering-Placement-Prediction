@@ -1,0 +1,2 @@
+# Engineering-Placement-Prediction
+Students and educational institutions place a high value on placements. It assists students in laying a solid basis for their future professional careers, and a high placement record offers a college/university a competitive advantage in the education market. This report concentrated on a system that predicts whether or not a student would be placed based on their qualifications, previous data, and experience. The outcome of this prediction is determined by a machine-learning algorithm.
